@@ -1,4 +1,4 @@
-## TechGig-Hackathon---Store-Transaction-Imputations
+## TechGig Online Hackathon: Store Transaction Imputations
 
 Nielsen Holdings plc (NYSE: NLSN) is a global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide.
 
